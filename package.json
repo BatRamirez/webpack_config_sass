@@ -1,0 +1,33 @@
+{
+  "name": "webpack-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "autoprefixer-loader": "^1.2.0",
+    "babel-core": "^4.7.16",
+    "babel-loader": "^4.3.0",
+    "babel-polyfill": "^6.22.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.9.1",
+    "css-loader": "^0.9.1",
+    "expose-loader": "^0.6.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.1",
+    "html-loader": "^0.2.3",
+    "json-loader": "^0.5.4",
+    "less": "^2.4.0",
+    "less-loader": "^2.2.0",
+    "lodash": "^3.6.0",
+    "node-sass": "^3.0.0-pre",
+    "sass-loader": "^1.0.4",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.5",
+    "webpack": "^1.14.0"
+  }
+}
